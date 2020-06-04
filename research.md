@@ -16,15 +16,15 @@ Our laboratory utilizes <em>in situ</em> electron microscopy to visualize and un
 
 These materials host a myriad of fascinating structural, electronic and magnetic ground states as well as complex behavior
 ranging from the nanoscale coexistence of competing phases to a huge sensitivity to external stimuli.
-These aspects call for novel experimental approaches that can visualize and manipulate quantum materials simultaneously.
+These aspects call for novel experimental approaches that can visualize and manipulate materials simultaneously.
 
 <br/>
 ## Techniques
-The instrument at the heart of our research is the (scanning) transmission electron microscope (STEM), which
+The instrument at the heart of our research is the scanning transmission electron microscope (STEM) which
 provides vivid atomic-resolution images of crystalline materials. To access and manipulate the rich phases of
-quantum materials, both **ultra-stable cryogenic sample holders** and **<em>in situ</em> control knobs are essential**.
+quantum materials, both **ultra-stable cryogenic sample holders** and **<em>in situ</em> control knobs** are essential.
 
-High-resolution cryogenic STEM imaging near 90 K was recently demonstrated, and has enabled unprecedented microscopic insights
+High-resolution cryogenic STEM imaging near 90 K was recently demonstrated, enabling unprecedented microscopic insights
 such as the direct visualization of the picometer scale distortions that accompany charge and orbital order.
 
 In our lab, we strive to couple <em>in situ</em> and <em>ex situ</em> electrical excitation with cryogenic STEM imaging (down to liquid helium
@@ -44,8 +44,8 @@ The materials we study range from bulk complex oxides to atomically engineered h
 and quasi-1D compounds. These systems are a rich playground for studying phenomena such as charge and orbital order,
 superconductivity, phase separation, ferroelectricity and quantum criticality.
 
-We are also interested in fundamentally understanding the nature of phase transitions by means of direct visualizations.
-For example, we succeeded in seeing topological defects and phase fluctuations in charge order stripes and how they
+We are also interested in fundamentally understanding phase transitions by means of direct visualizations.
+For example, we succeeded in seeing topological defects in charge-ordered stripes and how phase fluctuations
 alter long range ordering. 
 
 Building on this, our lab will develop a platform to image non-equilibrium transitions and metastable

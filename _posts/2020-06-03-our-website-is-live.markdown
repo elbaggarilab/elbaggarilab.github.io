@@ -6,5 +6,3 @@ categories: news
 published: true
 hide_hero: true
 ---
-
-Our reserach lab website is now live. 
