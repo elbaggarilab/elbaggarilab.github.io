@@ -5,5 +5,6 @@ subtitle: at the Åtomic Scale
 hero-height: is-fullwidth
 hide_hero: false
 show_sidebar: false
+hide_footer: true
 ---
 
