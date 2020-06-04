@@ -7,7 +7,7 @@ description: >
 baseurl:
 url: 
 permalink: pretty
-#favicon: /path/to/favicon.png
+favicon: ../../favicon.png
 #hide_share_buttons: true
 
 paginate: 5

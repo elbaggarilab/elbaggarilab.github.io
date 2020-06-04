@@ -1,10 +1,9 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
 layout: page
+title: Visualizing and Manipulating Quantum Materials
+subtitle: at the Åtomic Scale
+hero-height: is-fullwidth
+hide_hero: false
 show_sidebar: false
-hide_hero: true
 ---
 
-
-test
