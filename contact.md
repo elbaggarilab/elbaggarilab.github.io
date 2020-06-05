@@ -18,4 +18,4 @@ Cambridge, MA 02142
 
 The transmission electron microscopy user facility is located at the [Center for Nanoscale Systems](https://cns1.rc.fas.harvard.edu/) at Harvard.
 
-For inquiries about research [opportunities](/opportunities/), please contact Ismail at ielbaggari@rowland.harvard.edu 
+For inquiries about research [opportunities]({{site.baseurl }}/opportunities/), please contact Ismail at ielbaggari@rowland.harvard.edu 
