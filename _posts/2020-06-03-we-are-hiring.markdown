@@ -7,4 +7,4 @@ published: true
 hide_hero: true
 ---
 
-We are hiring! We have positions at the post-doctoral and undergraduate levels. See the [opportunities](/opportunities/) tab for more details.
+We are hiring! We have positions at the post-doctoral and undergraduate levels. See the [opportunities]({{ site.baseurl }}/opportunities/) tab for more details.

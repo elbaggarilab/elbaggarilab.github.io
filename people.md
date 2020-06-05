@@ -15,4 +15,4 @@ Cambridge, MA 02142<br/>
 ielbaggari@rowland.harvard.edu
 
 
-[**Joins us**](../opportunities/)
+[**Joins us**]({{ site.baseurl }}/opportunities/)

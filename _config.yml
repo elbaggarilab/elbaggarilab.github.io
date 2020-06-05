@@ -4,7 +4,7 @@ tagline: Seeing at the Åtomic Scale
 email: ielbaggari@rowland.harvard.edu
 description: >
     The Rowland Institute at Harvard
-baseurl:
+baseurl: /website
 url: 
 permalink: pretty
 favicon: ../../favicon.png
