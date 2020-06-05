@@ -9,7 +9,7 @@ hide_hero: true
 
 ## Overview
 
-![cryoSTEM](../img/cryoSTEM2.png)
+![cryogenic electron microscopy image of atoms](../img/cryoSTEM2.png)
 <br><em>Atomic-resolution cryogenic electron microscopy</em>
 
 Our laboratory utilizes <em>in situ</em> electron microscopy to visualize and understand quantum materials at the atomic scale.
@@ -31,7 +31,7 @@ In our lab, we strive to couple <em>in situ</em> and <em>ex situ</em> electrical
 temperatures). This will allow us to not only **correlate the atomic-scale insights
 with the macroscopic electronic properties** but also to **drive quantum materials into novel states**.
 <center>
-<img src="../img/PLD.png" alt="PLD"  align ="left" width="600"/>
+<img src="../img/PLD.png" alt="Map of atomic displacements in a charge-ordered material"  align ="left" width="600"/>
 </center>
 <br><em>Picometer-scale atomic displacements in the charge order phase of manganites</em>
 
@@ -51,7 +51,7 @@ alter long range ordering.
 Building on this, our lab will develop a platform to image non-equilibrium transitions and metastable
 states driven by electrical current and/or light pulses.
 
-![Twins](../img/Twins.png)
+![Light-induced charge density wave dislocation boundary](../img/Twins.png)
 <br><em>Light-induced charge density wave dislocation boundary</em>
 
 

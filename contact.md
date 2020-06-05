@@ -7,7 +7,7 @@ hide_hero: true
 ---
 
 <center>
- <img src="../img/Rowland.png">
+ <img src="../img/Rowland.png" alt="Outside and inside view of the Rowland Institute ">
 </center>
 
 The primary lab is located at the Rowland Institute at Harvard at 
