@@ -1,6 +1,5 @@
 ---
-title: Page with menubar
-subtitle: Demo page with a menubar
+title: Publications
 layout: page
 show_sidebar: true
 show_menubar: false

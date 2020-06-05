@@ -1,6 +1,5 @@
 ---
-title: Page without sidebar
-subtitle: Demo page without the sidebar
+title: People
 layout: page
 show_sidebar: true
 hide_hero: true

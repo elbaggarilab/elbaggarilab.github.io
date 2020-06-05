@@ -1,6 +1,5 @@
 ---
-title: Page with Tabs
-subtitle: Demo page with tabs
+title: Opportunities
 layout: page
 show_sidebar: true
 hide_hero: true

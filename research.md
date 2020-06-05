@@ -1,6 +1,5 @@
 ---
 title: Research
-subtitle: An example showcase page
 description: An example showcase page to help you easily display your work
 layout: page
 show_sidebar: true
