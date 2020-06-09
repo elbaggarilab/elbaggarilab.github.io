@@ -42,7 +42,7 @@ and quasi-1D compounds. These systems are a rich playground for studying phenome
 **superconductivity**, **phase separation**, **ferroelectricity** and **quantum criticality**.
 
 We are also interested in fundamentally understanding phase transitions by means of direct visualization of order and disorder.
-For example, through real space [observations]((https://www.pnas.org/content/115/7/1445.short) of topological defects in charge-ordered stripes, we revealed how phase fluctuations alter long range ordering. 
+For example, through real space [observations](https://www.pnas.org/content/115/7/1445.short) of topological defects in charge-ordered stripes, we revealed how phase fluctuations alter long range ordering. 
 
 Building on this, our lab will develop a platform to image non-equilibrium transitions and metastable
 states driven by electrical current and/or light pulses.
