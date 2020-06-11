@@ -10,9 +10,9 @@ hide_hero: true
 **Postdocs**
 Our lab welcomes applications for a postdoctoral fellow position in the area of <em> in situ </em> scanning transmission electron microscopy of quantum materials. 
 
-We invite applicants with (1) a strong background in high-resolution (scanning) transmission electron microscopy and electron energy loss 
-spectroscopy of materials, (2) experience in the analysis of microscopy/spectroscopy data for uncovering subtle phenomena, and (3) 
-experience or strong interest in any of the following: strongly correlated electron systems or other quantum materials, 
+We invite applicants with (1) a strong background in high-resolution scanning transmission electron microscopy, (2) experience in the analysis of 
+microscopy/spectroscopy data for uncovering subtle phenomena, and (3) experience or strong interest in any of the following: 
+strongly correlated electron systems or other quantum materials, 
 <em>in situ </em> transmisison electron microscopy techniques (biasing/heating/strain), cryogenics, transport characterization,
 or nanofabrication.
 

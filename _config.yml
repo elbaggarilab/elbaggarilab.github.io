@@ -1,5 +1,5 @@
 # Site Settings
-title: Microscopy of Quantum Materials
+title: Electron Microscopy of Quantum Materials
 tagline: Seeing at the Åtomic Scale
 email: ielbaggari@rowland.harvard.edu
 description: >
@@ -7,7 +7,7 @@ description: >
 baseurl: /website
 url: 
 permalink: pretty
-favicon: ../../favicon.png
+favicon: favicon.png
 #hide_share_buttons: true
 
 paginate: 5

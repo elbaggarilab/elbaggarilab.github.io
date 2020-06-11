@@ -1,6 +1,6 @@
 ---
 title: Research
-description: An example showcase page to help you easily display your work
+description: Research 
 layout: page
 show_sidebar: true
 hide_hero: true
