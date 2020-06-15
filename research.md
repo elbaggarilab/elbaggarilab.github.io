@@ -26,7 +26,7 @@ High-resolution cryogenic STEM imaging near 90 K was recently [demonstrated](htt
 enabling unprecedented microscopic insights such as the direct visualization of the picometer scale distortions that accompany charge and orbital order.
 
 In our lab, we strive to couple cryogenic STEM imaging (down to liquid helium temperatures) with <em>in situ</em> 
-and <em>ex situ</em> electrical excitation. This combination will allow us to not only **correlate the atomic-scale insights with the macroscopic electronic properties** but also to **drive quantum materials into novel states**.
+and <em>ex situ</em> electrical excitation. This combination will allow us to not only **correlate atomic-scale insights with the macroscopic electronic properties of quantum materials** but also to **induce novel phenomena in these materials**.
 <center>
 <img src="../img/PLD.png" alt="Map of atomic displacements in a charge-ordered material"  align ="left" width="600"/>
 </center>
@@ -41,7 +41,7 @@ The materials we study range from bulk complex oxides to atomically engineered h
 and quasi-1D compounds. These systems are a rich playground for studying phenomena such as **charge and orbital order**,
 **superconductivity**, **phase separation**, **ferroelectricity** and **quantum criticality**.
 
-We are also interested in fundamentally understanding phase transitions by means of direct visualization of order and disorder.
+We are also interested in fundamentally understanding phase transitions by directly visualizing order and disorder.
 For example, through real space [observations](https://www.pnas.org/content/115/7/1445.short) of topological defects in charge-ordered stripes, we revealed how phase fluctuations alter long range ordering. 
 
 Building on this, our lab will develop a platform to image non-equilibrium transitions and metastable
