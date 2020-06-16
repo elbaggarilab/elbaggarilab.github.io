@@ -13,7 +13,7 @@ Our lab welcomes applications for a postdoctoral fellow position in the area of 
 We invite applicants with (1) a strong background in high-resolution scanning transmission electron microscopy, (2) experience in the analysis of 
 microscopy/spectroscopy data for uncovering subtle phenomena, and (3) experience or strong interest in any of the following: 
 strongly correlated electron systems or other quantum materials, 
-<em>in situ </em> transmisison electron microscopy techniques (biasing/heating/strain), cryogenics, transport characterization,
+<em>in situ </em> transmission electron microscopy techniques (biasing/heating/strain), cryogenics, transport characterization,
 or nanofabrication.
 
 To apply, please send the following to ielbaggari@rowland.harvard.edu 
