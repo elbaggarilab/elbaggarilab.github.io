@@ -12,7 +12,7 @@ hide_hero: true
 <br><em>Atomic-resolution cryogenic electron microscopy</em>
 
 
-Quantum materials host a myriad of fascinating structural, electronic and magnetic ground states as well as complex behavior
+Quantum materials host a myriad of fascinating structural, electronic and magnetic ground states as well as complex behaviors
 ranging from the nanoscale coexistence of competing phases to a huge sensitivity to external stimuli.
 Our laboratory utilizes <em>in situ</em> electron microscopy to visualize and manipulate these materials at the atomic scale.
 
