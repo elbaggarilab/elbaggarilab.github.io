@@ -32,14 +32,14 @@ University of Toronto [link](https://www.youtube.com/channel/UCVRy29tW8aPN_lE-B0
 
 ## Seminars & Conferences
 
-Perimeter Institute [link](http://pirsa.org/) (<em>Navigate with search interface, by term, speaker, keyword...) </em>)
-ICTS Strongly Correlated Systems: from Models to Materials, 2014 [link](https://www.icts.res.in/program/MTM2014/talks)
-KITP: Novel States in Spin-Orbit Coupled Quantum Matter, 2015 [link](http://online.kitp.ucsb.edu/online/lsmatter_c15/)
-KITP: New Phases and Emergent Phenomena in Correlated Materials with Strong Spin-Orbit Coupling [link](http://online.kitp.ucsb.edu/online/lsmatter15/)
-KITP: Order, Fluctuations, and Strong Correlations, 2017 [link](http://online.kitp.ucsb.edu/online/intertwined_c17/)
-KITP: Intertwined Order and Fluctuations in Quantum Materials, 2017[link]( http://online.kitp.ucsb.edu/online/intertwined17/)
-KITP: Spintronics Meets Topology in Quantum Materials, 2019 [link](http://online.kitp.ucsb.edu/online/spinquant-c19/)
-KITP: Correlations in Moire Flat Bands, 2019 [link](http://online.kitp.ucsb.edu/online/bands_m19/)
-Fundamental Physics of Ferroelectrics, 2017-20XX [link]( https://www.materialsbydesign.org/) (<em> Click year and then "Program & Video" for link</em>)
-Center for Integrated Quantum Materials [link](https://www.youtube.com/channel/UCBz9hE9jt4pIGK78Tnfiqow)
-Spin Phenomena Interdisciplinary Center [link](https://www.youtube.com/c/SPICEmainz/playlists)
+Perimeter Institute [link](http://pirsa.org/) (<em>Navigate with search interface, by term, speaker, keyword...) </em>)<br/>
+ICTS Strongly Correlated Systems: from Models to Materials, 2014 [link](https://www.icts.res.in/program/MTM2014/talks)<br/>
+KITP: Novel States in Spin-Orbit Coupled Quantum Matter, 2015 [link](http://online.kitp.ucsb.edu/online/lsmatter_c15/)<br/>
+KITP: New Phases and Emergent Phenomena in Correlated Materials with Strong Spin-Orbit Coupling [link](http://online.kitp.ucsb.edu/online/lsmatter15/)<br/>
+KITP: Order, Fluctuations, and Strong Correlations, 2017 [link](http://online.kitp.ucsb.edu/online/intertwined_c17/)<br/>
+KITP: Intertwined Order and Fluctuations in Quantum Materials, 2017[link]( http://online.kitp.ucsb.edu/online/intertwined17/)<br/>
+KITP: Spintronics Meets Topology in Quantum Materials, 2019 [link](http://online.kitp.ucsb.edu/online/spinquant-c19/)<br/>
+KITP: Correlations in Moire Flat Bands, 2019 [link](http://online.kitp.ucsb.edu/online/bands_m19/)<br/>
+Fundamental Physics of Ferroelectrics, 2017-20XX [link]( https://www.materialsbydesign.org/) (<em> Click year and then "Program & Video" for link</em>)<br/>
+Center for Integrated Quantum Materials [link](https://www.youtube.com/channel/UCBz9hE9jt4pIGK78Tnfiqow)<br/>
+Spin Phenomena Interdisciplinary Center [link](https://www.youtube.com/c/SPICEmainz/playlists)<br/>
