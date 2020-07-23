@@ -41,4 +41,5 @@ KITP: Intertwined Order and Fluctuations in Quantum Materials, 2017[link]( http:
 KITP: Spintronics Meets Topology in Quantum Materials, 2019 [link](http://online.kitp.ucsb.edu/online/spinquant-c19/)
 KITP: Correlations in Moire Flat Bands, 2019 [link](http://online.kitp.ucsb.edu/online/bands_m19/)
 Fundamental Physics of Ferroelectrics, 2017-20XX [link]( https://www.materialsbydesign.org/) (<em> Click year and then "Program & Video" for link</em>)
-
+Center for Integrated Quantum Materials [link](https://www.youtube.com/channel/UCBz9hE9jt4pIGK78Tnfiqow)
+Spin Phenomena Interdisciplinary Center [link](https://www.youtube.com/c/SPICEmainz/playlists)
