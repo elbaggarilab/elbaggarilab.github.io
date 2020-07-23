@@ -11,8 +11,10 @@ hide_hero: true
 An in-progress list of recorded colloquia, seminars and schools on quantum materials research. The focus tilts towards strongly correlated electron systems.
 
 ## Summer/winter schools
-
-
+Princeton Summer School on Condensed Matter Physics, 2020 [link](https://pccm.princeton.edu/psscmp-webinars)
+Fundamental of Quantum Materials Winter School & Workshop, 2018-20XX, [link](https://fqm.physics.umd.edu/home) 
+Quantum Science Summer School, 2017-20XX, [link](http://qs3.mit.edu/)
+PARADIM Summer Schools, 2016-20XX, [link](https://www.paradim.org/summer_schools_past) (check out both the Cornell and JHU tabs; electron microscopy, DFT, synthesis)
 
 ## Colloquia (General)
 
@@ -26,3 +28,6 @@ ETH Zurich [link](https://www.video.ethz.ch/speakers/zurich_physics_colloquium.h
 Fudan University [link](http://phys.fudan.edu.cn/eng/wecture/list.htm) (hasn't been updated in a while)
 
 
+## Seminars
+
+Perimeter Institute 
