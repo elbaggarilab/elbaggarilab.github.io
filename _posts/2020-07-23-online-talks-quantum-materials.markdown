@@ -32,7 +32,7 @@ University of Toronto, [link](https://www.youtube.com/channel/UCVRy29tW8aPN_lE-B
 
 ## Seminars & Conferences
 
-Perimeter Institute, [link](http://pirsa.org/) (<em>Navigate with search interface, by term, speaker, keyword...) </em>)<br/>
+Perimeter Institute, [link](http://pirsa.org/) (<em>Navigate with search interface, by term, speaker, keyword </em>)<br/>
 ICTS Strongly Correlated Systems: from Models to Materials, 2014, [link](https://www.icts.res.in/program/MTM2014/talks)<br/>
 KITP: Novel States in Spin-Orbit Coupled Quantum Matter, 2015, [link](http://online.kitp.ucsb.edu/online/lsmatter_c15/)<br/>
 KITP: New Phases and Emergent Phenomena in Correlated Materials with Strong Spin-Orbit Coupling, 2015, [link](http://online.kitp.ucsb.edu/online/lsmatter15/)<br/>
