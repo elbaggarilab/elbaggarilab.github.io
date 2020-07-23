@@ -2,7 +2,7 @@
 layout: post
 title:  "Links to online talks on quantum materials"
 date:   2020-07-23 11:24:07
-categories: resoources
+categories: resources
 published: true
 hide_hero: true
 ---
