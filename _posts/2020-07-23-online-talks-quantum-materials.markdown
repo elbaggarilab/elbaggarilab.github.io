@@ -14,7 +14,7 @@ An in-progress list of recorded colloquia, seminars and schools on quantum mater
 [Princeton Summer School on Condensed Matter Physics, 2020](https://pccm.princeton.edu/psscmp-webinars)<br/>
 [Fundamental of Quantum Materials Winter School & Workshop, 2018-20XX](https://fqm.physics.umd.edu/home)<br/> 
 [Quantum Science Summer School, 2017-20XX](http://qs3.mit.edu/)<br/>
-[PARADIM Summer Schools, 2016-20XX](https://www.paradim.org/summer_schools_past)
+[PARADIM Summer Schools, 2016-20XX](https://www.paradim.org/summer_schools_past)<br/>
 [EPiQM Summer School at Cornell, 2015-2018](https://www.youtube.com/c/CornellLaboratoryofAtomicandSolidStatePhysicsLASSP/playlists)<br/>
 [Boulder Summer School, 2013-20XX](https://www.youtube.com/channel/UC37kYds7QwN8w9vPBPkdVxA/playlists)
 
@@ -23,7 +23,7 @@ An in-progress list of recorded colloquia, seminars and schools on quantum mater
 <em>General physics talks including ones about condensed matter.</em>
 
 [UC Berkeley](http://physics.berkeley.edu/resources/colloquia-and-videos)<br/>
-[Harvard University](https://www.physics.harvard.edu/events/colloq_archive)<br/>
+[Harvard University](https://www.physics.harvard.edu/colloq_archive)<br/>
 [University of Chicago]( http://kersten.uchicago.edu/event_video/colloquia/index_colloquia.html)<br/>
 [Caltech](http://pmaweb.caltech.edu/~physcoll/PhysColl17-18.html) \*change the numbers in the url for other years<br/>
 [ETH Zurich](https://www.video.ethz.ch/speakers/zurich_physics_colloquium.html)<br/>
