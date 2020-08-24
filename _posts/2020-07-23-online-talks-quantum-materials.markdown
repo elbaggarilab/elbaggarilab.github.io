@@ -7,8 +7,7 @@ published: true
 hide_hero: true
 ---
 
-
-An in-progress list of recorded colloquia, seminars and schools on quantum materials research. The focus tilts towards strongly correlated electron systems.
+A compilation of recorded colloquia, seminars and schools on quantum materials research.
 
 ## Summer/winter schools
 [Princeton Summer School on Condensed Matter Physics, 2020](https://pccm.princeton.edu/psscmp-webinars)<br/>
@@ -42,4 +41,4 @@ An in-progress list of recorded colloquia, seminars and schools on quantum mater
 [KITP: Correlations in Moire Flat Bands, 2019](http://online.kitp.ucsb.edu/online/bands_m19/)<br/>
 [Fundamental Physics of Ferroelectrics, 2017-20XX]( https://www.materialsbydesign.org/) \* click year and then "Program & Video" for link<br/>
 [Center for Integrated Quantum Materials](https://www.youtube.com/channel/UCBz9hE9jt4pIGK78Tnfiqow)<br/>
-[Spin Phenomena Interdisciplinary Center](https://www.youtube.com/c/SPICEmainz/playlists)<br/>
+[Spin Phenomena Interdisciplinary Center](https://www.youtube.com/c/SPICEmainz/playlists) \* many great workshops and seminars <br/>
