@@ -12,17 +12,17 @@ Our lab welcomes applications for a postdoctoral fellow position in the area of 
 
 We invite applicants with (1) a strong background in high-resolution scanning transmission electron microscopy, (2) experience in the analysis of 
 microscopy/spectroscopy data for uncovering subtle phenomena, and (3) experience or strong interest in any of the following: 
-strongly correlated electron systems or other quantum materials, 
+strongly correlated electron systems and other quantum materials, 
 <em>in situ </em> transmission electron microscopy techniques (biasing/heating/strain), cryogenics, transport characterization,
 or nanofabrication.
 
 To apply, please send the following to ielbaggari@rowland.harvard.edu 
-* a cover letter describing your past research and your future research interests (equivalent of 1-1.5 page)
+* a cover letter describing your past research and a potential future research project in our lab (equivalent of 2 pages)
 * an academic CV  
 * contact information for 2-3 references
 
 **Undergraduate Students**
-We aim to provide undergraduate students with meaningful research projects. Due to the COVID19 health crisis, we only have positions for Harvard undergraduates. Further, the research project will have to be remote (no physical access to the lab). Depending on interests and fit, the remote project can be designed to interface with our experimental efforts. To discuss opportunities, feel free to contact ielbaggari@rowland.harvard.edu. 
+Due to the COVID19 health crisis, we only have positions for Harvard undergraduates and the research project will need to be performed remotely. However, the project can is designed around our experimental efforts. To discuss opportunities, contact ielbaggari@rowland.harvard.edu. 
 
 **Graduate Students**
 Co-advised graduate student positions may be available, especially if you are interested in integrating atomic-resolution imaging into your research.
