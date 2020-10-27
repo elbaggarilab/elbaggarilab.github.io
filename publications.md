@@ -15,7 +15,7 @@ B. Goodge, I. El Baggari, L. F. Kourkoutis (In Preparation)
 I. El Baggari, A. Zong, A. Kogar, N. Gedik, L. F. Kourkoutis (In Preparation) 
 
 **Mapping defect relaxation in quantum dot solids upon <em>in situ</em> heating**<br/>
-M. Smeaton, I. El Baggari, D. M. Balazs, T. Hanrath, L. F. Kourkoutis (Submitted) 
+M. Smeaton, I. El Baggari, D. M. Balazs, T. Hanrath, L. F. Kourkoutis (In Review) 
 
 [**Charge order textures induced by non-linear lattice coupling in a half-doped manganite**](https://arxiv.org/abs/2010.12610)<br/>
 I. El Baggari\*, D. J. Baek\*, M. J. Zachman, D. Liu, Y. Hikita, H. Y. Hwang, E. A. Nowadnick, L. F. Kourkoutis. arXiv:2010.12610 (Submitted) 
