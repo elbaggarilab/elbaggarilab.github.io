@@ -15,7 +15,7 @@ B. Goodge, I. El Baggari, L. F. Kourkoutis (In Preparation)
 I. El Baggari, A. Zong, A. Kogar, N. Gedik, L. F. Kourkoutis (In Preparation) 
 
 **Room-temperature stabilization of commensurate 2D charge density waves in confined TaS<sub>2</sub> polytypes**<br/>
-S. H. Sung, N. Schnitzer, S. Novakov, I. El Baggari, X. Luo, J. Gim, N. Vu, T. Brintlinger, Y. Sun, K. Sun, L. Zhao, L. F. Kourkoutis,, J. T. Heron, R. Hovden (Submitted)
+S. H. Sung, N. Schnitzer, S. Novakov, I. El Baggari, X. Luo, J. Gim, N. Vu, T. Brintlinger, Y. Sun, K. Sun, L. Zhao, L. F. Kourkoutis, J. T. Heron, R. Hovden (Submitted)
 
 **Mapping defect relaxation in quantum dot solids upon <em>in situ</em> heating**<br/>
 M. Smeaton, I. El Baggari, D. M. Balazs, T. Hanrath, L. F. Kourkoutis (In Review) 
