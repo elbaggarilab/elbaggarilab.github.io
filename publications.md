@@ -17,8 +17,8 @@ I. El Baggari, A. Zong, A. Kogar, N. Gedik, L. F. Kourkoutis (In Preparation)
 **Room-temperature stabilization of commensurate 2D charge density waves in confined TaS<sub>2</sub> polytypes**<br/>
 S. H. Sung, N. Schnitzer, S. Novakov, I. El Baggari, X. Luo, J. Gim, N. Vu, T. Brintlinger, Y. Sun, K. Sun, L. Zhao, L. F. Kourkoutis, J. T. Heron, R. Hovden (Submitted)
 
-**Mapping defect relaxation in quantum dot solids upon <em>in situ</em> heating**<br/>
-M. Smeaton, I. El Baggari, D. M. Balazs, T. Hanrath, L. F. Kourkoutis (In Review) 
+[**Mapping defect relaxation in quantum dot solids upon <em>in situ</em> heating**](https://pubs.acs.org/doi/10.1021/acsnano.0c06990)<br/>
+M. Smeaton, I. El Baggari, D. M. Balazs, T. Hanrath, L. F. Kourkoutis. *ACS Nano* (2021) 
 
 [**Charge order textures induced by non-linear lattice coupling in a half-doped manganite**](https://arxiv.org/abs/2010.12610)<br/>
 I. El Baggari\*, D. J. Baek\*, M. J. Zachman, D. Liu, Y. Hikita, H. Y. Hwang, E. A. Nowadnick, L. F. Kourkoutis. arXiv:2010.12610 (Submitted) 
