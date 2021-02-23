@@ -14,7 +14,7 @@ B. Goodge, I. El Baggari, L. F. Kourkoutis (In Preparation)
 **Domains boundaries in light-induced charge density wave twins in 1T-TaS<sub>2</sub>**<br/>
 I. El Baggari, A. Zong, A. Kogar, N. Gedik, L. F. Kourkoutis (In Preparation) 
 
-**Two-dimensional electronic order stabilized in clean polytype heterostructures**<br/>
+[**Two-dimensional electronic order stabilized in clean polytype heterostructures**](https://arxiv.org/abs/2102.09079)<br/>
 S. H. Sung, N. Schnitzer, S. Novakov, I. El Baggari, X. Luo, J. Gim, N. Vu, T. Brintlinger, Y. Sun, K. Sun, L. Zhao, L. F. Kourkoutis, J. T. Heron, R. Hovden (Submitted)
 
 [**Mapping defect relaxation in quantum dot solids upon <em>in situ</em> heating**](https://pubs.acs.org/doi/10.1021/acsnano.0c06990)<br/>
