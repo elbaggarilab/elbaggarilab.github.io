@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Visualizing and Manipulating Quantum Materials
-subtitle: at the Åtomic Scale
+subtitle: Visualizing and Manipulating Quantum Materials at the Åtomic Scale
 hide_hero: false
 show_sidebar: true
 hide_footer: false
