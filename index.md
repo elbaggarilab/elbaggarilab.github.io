@@ -1,6 +1,7 @@
 ---
 layout: page
-subtitle: Visualizing and Manipulating Quantum Materials at the Åtomic Scale
+title: in situ Åtomic Imaging 
+subtitle: of Quantum Matter
 hide_hero: false
 show_sidebar: true
 hide_footer: false
@@ -9,4 +10,5 @@ hide_footer: false
 
 Our lab uses <em> in situ</em> cryogenic electron microscopy to visualize, understand and manipulate quantum materials at the atomic scale.
 We are located at the <a href="https://www2.rowland.harvard.edu/">Rowland Institute at Harvard</a> in Cambridge, MA.
+
 
