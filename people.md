@@ -16,7 +16,7 @@ ielbaggari@rowland.harvard.edu<br/>
 <br/>
 
 
-<img src="../img/patrick-1.jpg" alt="Patrick" width="300"/>
+<img src="../img/Patrick-1.jpg" alt="Patrick" width="300"/>
 
 **Patrick Singleton**
 
