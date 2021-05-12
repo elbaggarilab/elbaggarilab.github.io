@@ -20,8 +20,8 @@ S. H. Sung, N. Schnitzer, S. Novakov, I. El Baggari, X. Luo, J. Gim, N. Vu, T. B
 [**Mapping defect relaxation in quantum dot solids upon <em>in situ</em> heating**](https://pubs.acs.org/doi/10.1021/acsnano.0c06990)<br/>
 M. Smeaton, I. El Baggari, D. M. Balazs, T. Hanrath, L. F. Kourkoutis. *ACS Nano* (2021) 
 
-[**Charge order textures induced by non-linear lattice coupling in a half-doped manganite**](https://arxiv.org/abs/2010.12610)<br/>
-I. El Baggari\*, D. J. Baek\*, M. J. Zachman, D. Liu, Y. Hikita, H. Y. Hwang, E. A. Nowadnick, L. F. Kourkoutis. arXiv:2010.12610 (Submitted) 
+[**Charge order textures induced by non-linearcouplings in a half-doped manganite**](https://arxiv.org/abs/2010.12610)<br/>
+I. El Baggari\*, D. J. Baek\*, M. J. Zachman, D. Liu, Y. Hikita, H. Y. Hwang, E. A. Nowadnick, L. F. Kourkoutis. arXiv:2010.12610/*Nature Communications* (Accepted)
 
 [**Direct visualization of trimerized states in 1T<sup>'</sup>-TaTe<sub>2</sub>**](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.165302)<br/>
 I. El Baggari, N. Sivadas, G. M. Stiehl, J. Waelder, D. C. Ralph, C. J. Fennie, L. F. Kourkoutis. *Physical Review Letters* 125, 165302 (2020)
