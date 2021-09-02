@@ -5,7 +5,7 @@ show_sidebar: false
 hide_hero: true
 ---
 
-![Rowland View](../img/RowlandView.jpg)
+![Rowland View](../img/Rowland-0921.jpg)
 
 ## Join our lab!
 
