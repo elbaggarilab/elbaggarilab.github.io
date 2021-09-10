@@ -11,10 +11,20 @@ hide_hero: true
 Principal Investigator & Rowland Fellow<br/>
 100 Edwin H. Land Blvd<br/>
 Cambridge, MA 02142<br/>
-ielbaggari@rowland.harvard.edu<br/>
+ielbaggari [at] rowland.harvard.edu<br/>
 <br/>
 <br/>
 
+
+<img src="../img/Hesham.png" alt="Hesham" width="300"/>
+
+**Dr. Hesham El Sherif**
+
+Post-Doctoral Fellow<br/>
+Ph.D., McMaster University<br/>
+heshamhassan [at] fas.harvard.edu<br/>
+<br/>
+<br/>
 
 <img src="../img/Patrick-1.jpg" alt="Patrick" width="300"/>
 
