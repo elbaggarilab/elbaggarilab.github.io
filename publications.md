@@ -13,10 +13,10 @@ hide_hero: true
 I. El Baggari, A. Zong, A. Kogar, N. Gedik, L. F. Kourkoutis (In Preparation) 
 
 **Imaging Atomic-Scale Chemistry from Fused Multi-Modal Electron Microscopy**<br/>
-J. Schwartz, Z. W. Di, Y. Jiang, A.  J. F., D. Ha, S. D. Perera, I. El Baggari, R. D. Robinson, J. A. Fessler, C. Ophus, S. Rozeveld,  R. Hovden (Submitted)
+J. Schwartz, Z. W. Di, Y. Jiang, A.  J. F., D. Ha, S. D. Perera, I. El Baggari, R. D. Robinson, J. A. Fessler, C. Ophus, S. Rozeveld,  R. Hovden (In Review)
 
 **Disentangling Coexisting Structural Order Through Phase Lock-in Analysis of Atomic-Resolution STEM Data**<br/>
-B. H. Goodge, I. El Baggari, S. S Hong, Z. Wang, D. G. Schlom, H. Y.Hwang, & L. F. Kourkoutis (Submitted)
+B. H. Goodge, I. El Baggari, S. S Hong, Z. Wang, D. G. Schlom, H. Y.Hwang, & L. F. Kourkoutis (In Review)
 
 [**Two-dimensional electronic order stabilized in clean polytype heterostructures**](https://arxiv.org/abs/2102.09079)<br/>
 S. H. Sung, N. Schnitzer, S. Novakov, I. El Baggari, X. Luo, J. Gim, N. Vu, T. Brintlinger, Y. Sun, K. Sun, L. Zhao, L. F. Kourkoutis, J. T. Heron, R. Hovden. *Nature Communications* (Accepted)
