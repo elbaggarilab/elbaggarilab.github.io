@@ -19,7 +19,7 @@ J. Schwartz, Z. W. Di, Y. Jiang, A.  J. F., D. Ha, S. D. Perera, I. El Baggari, 
 B. H. Goodge, I. El Baggari, S. S Hong, Z. Wang, D. G. Schlom, H. Y.Hwang, & L. F. Kourkoutis (In Review)
 
 [**Two-dimensional electronic order stabilized in clean polytype heterostructures**](https://arxiv.org/abs/2102.09079)<br/>
-S. H. Sung, N. Schnitzer, S. Novakov, I. El Baggari, X. Luo, J. Gim, N. Vu, T. Brintlinger, Y. Sun, K. Sun, L. Zhao, L. F. Kourkoutis, J. T. Heron, R. Hovden. *Nature Communications* (Accepted)
+S. H. Sung, N. Schnitzer, S. Novakov, I. El Baggari, X. Luo, J. Gim, N. Vu, T. Brintlinger, Y. Sun, K. Sun, L. Zhao, L. F. Kourkoutis, J. T. Heron, R. Hovden. *Nature Communications* (In Press)
 
 [**Mapping defect relaxation in quantum dot solids upon <em>in situ</em> heating**](https://pubs.acs.org/doi/10.1021/acsnano.0c06990)<br/>
 M. Smeaton, I. El Baggari, D. M. Balazs, T. Hanrath, L. F. Kourkoutis. *ACS Nano* 15, 1 (2021) 
