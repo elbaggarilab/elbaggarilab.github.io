@@ -12,14 +12,14 @@ hide_hero: true
 **Domains boundaries in light-induced charge density wave twins in 1T-TaS<sub>2</sub>**<br/>
 I. El Baggari, A. Zong, A. Kogar, N. Gedik, L. F. Kourkoutis (In Preparation) 
 
-**Imaging Atomic-Scale Chemistry from Fused Multi-Modal Electron Microscopy**<br/>
-J. Schwartz, Z. W. Di, Y. Jiang, A.  J. F., D. Ha, S. D. Perera, I. El Baggari, R. D. Robinson, J. A. Fessler, C. Ophus, S. Rozeveld,  R. Hovden (In Review)
+[**Disentangling Coexisting Structural Order Through Phase Lock-in Analysis of Atomic-Resolution STEM Data**](https://www.cambridge.org/core/journals/microscopy-and-microanalysis/article/disentangling-coexisting-structural-order-through-phase-lockin-analysis-of-atomicresolution-stem-data/6BFF368CFE4A59ED5FCA8F945BEFF160)<br/>
+B. H. Goodge, I. El Baggari, S. S Hong, Z. Wang, D. G. Schlom, H. Y.Hwang, & L. F. Kourkoutis. *Microscopy and Microanalysis* 1-8 (2022)
 
-**Disentangling Coexisting Structural Order Through Phase Lock-in Analysis of Atomic-Resolution STEM Data**<br/>
-B. H. Goodge, I. El Baggari, S. S Hong, Z. Wang, D. G. Schlom, H. Y.Hwang, & L. F. Kourkoutis (In Review)
+[**Imaging Atomic-Scale Chemistry from Fused Multi-Modal Electron Microscopy**](https://www.nature.com/articles/s41524-021-00692-5)<br/>
+J. Schwartz, Z. W. Di, Y. Jiang, A.  J. F., D. Ha, S. D. Perera, I. El Baggari, R. D. Robinson, J. A. Fessler, C. Ophus, S. Rozeveld,  R. Hovden. *npj Computational Materials* 8, 16 (2022) 
 
-[**Two-dimensional electronic order stabilized in clean polytype heterostructures**](https://arxiv.org/abs/2102.09079)<br/>
-S. H. Sung, N. Schnitzer, S. Novakov, I. El Baggari, X. Luo, J. Gim, N. Vu, T. Brintlinger, Y. Sun, K. Sun, L. Zhao, L. F. Kourkoutis, J. T. Heron, R. Hovden. *Nature Communications* (In Press)
+[**Two-dimensional electronic order stabilized in clean polytype heterostructures**](https://www.nature.com/articles/s41467-021-27947-5)<br/>
+S. H. Sung, N. Schnitzer, S. Novakov, I. El Baggari, X. Luo, J. Gim, N. Vu, T. Brintlinger, Y. Sun, K. Sun, L. Zhao, L. F. Kourkoutis, J. T. Heron, R. Hovden. *Nature Communications* 13, 413 (2022)
 
 [**Mapping defect relaxation in quantum dot solids upon <em>in situ</em> heating**](https://pubs.acs.org/doi/10.1021/acsnano.0c06990)<br/>
 M. Smeaton, I. El Baggari, D. M. Balazs, T. Hanrath, L. F. Kourkoutis. *ACS Nano* 15, 1 (2021) 

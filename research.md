@@ -46,7 +46,9 @@ For example, through real space [observations](https://www.pnas.org/content/115/
 Building on this, our lab is developing a platform to image non-equilibrium transitions and metastable
 states driven by electrical current and/or light pulses.
 
-![etastable charge density wave domains in a 2D material](../img/Twins.png)
+
+
+![Metastable charge density wave domains in a 2D material](../img/Twins.png)
 <br><em>Metastable charge density wave domains in a 2D material</em>
 
 
