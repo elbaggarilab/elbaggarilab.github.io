@@ -12,6 +12,9 @@ hide_hero: true
 **Domains boundaries in light-induced charge density wave twins in 1T-TaS<sub>2</sub>**<br/>
 I. El Baggari, A. Zong, A. Kogar, N. Gedik, L. F. Kourkoutis (In Preparation) 
 
+[**Synthesis and electronic properties of Nd<sub>n+1</sub>Ni<sub>n</sub>O<sub>3n+1</sub> Ruddlesden-Popper nickelate thin films**](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.6.055003)<br/>
+G. A. Pan, Q. Song, D. F. Segedin, M.  Jung, H. El-Sherif, E. E. Fleck, B. H. Goodge, S. Doyle, D. C. Carrizales, A. T. N'Diaye, P. Shafer, H. Paik, L. F. Kourkoutis, I. El Baggari, A. S. Botana, C. M. Brooks, and . A. Mundy. *Physical Reiew. Materials* 6, 055003 (2022)
+
 [**Disentangling Coexisting Structural Order Through Phase Lock-in Analysis of Atomic-Resolution STEM Data**](https://www.cambridge.org/core/journals/microscopy-and-microanalysis/article/disentangling-coexisting-structural-order-through-phase-lockin-analysis-of-atomicresolution-stem-data/6BFF368CFE4A59ED5FCA8F945BEFF160)<br/>
 B. H. Goodge, I. El Baggari, S. S Hong, Z. Wang, D. G. Schlom, H. Y.Hwang, & L. F. Kourkoutis. *Microscopy and Microanalysis* 1-8 (2022)
 
