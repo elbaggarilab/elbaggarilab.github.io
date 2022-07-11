@@ -1,0 +1,16 @@
+style: is-light
+height: is-medium
+items:
+  - title: 
+    subtitle: Learn more about 
+    icon: 
+    description: 
+    call_to_action_name: Research
+    call_to_action_link: /research/
+  - title: 
+    subtitle: Explore available research 
+    icon: 
+    description: 
+    call_to_action_name: Opportunities
+    call_to_action_link: /opportunities/
+
