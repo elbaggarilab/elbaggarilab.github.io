@@ -4,7 +4,9 @@ layout: page
 show_sidebar: true
 hide_hero: true
 ---
-<img src="../img/Ismail.jpg" alt="Ismail" width="300"/>
+
+<img src="../img/Ismail0.jpg" alt="Ismail" width="300"/>
+
 
 **Ismail El Baggari, PhD**
 
