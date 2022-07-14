@@ -14,7 +14,7 @@ hide_hero: true
 
 
 **Antiferromagnetic metal phase in an electron-doped rare-earth nickelate**<br/> 
-Qi Song , Spencer Doyle , Grace Pan , <u>Ismail El Baggari</u> , Dan Ferenc Segedin , Denisse Cordova Carrizales , James Ehrets , Zubia Hasan , <u>Hesham El-Sherif</u> , Jyoti Krishna , Chase Hanson , Harrison LaBollita , Aaron Bostwick , Chris Jozwiak , Eli Rotenberg , Alessandra Lanzara , Alpha N'Diaye , Colin Heikes , Yaohua Liu , Hanjong Paik , Charles Brooks , Betül Pamuk , John Heron , Padraic Shafer ,William Ratcliff , Antia Botana , Luca Moreschini (*In Review*)
+Qi Song , Spencer Doyle , Grace Pan , <u>Ismail El Baggari</u> , Dan Ferenc Segedin , Denisse Cordova Carrizales , James Ehrets , Zubia Hasan , <u>Hesham El-Sherif</u> , Jyoti Krishna , Chase Hanson , Harrison LaBollita , Aaron Bostwick , Chris Jozwiak , Eli Rotenberg , Alessandra Lanzara , Alpha N'Diaye , Colin Heikes , Yaohua Liu , Hanjong Paik , Charles Brooks , Betül Pamuk , John Heron , Padraic Shafer ,William Ratcliff , Antia Botana , Luca Moreschini, Julia A Mundy (*In Review*)
 
 
 [**Synthesis and electronic properties of Nd<sub>n+1</sub>Ni<sub>n</sub>O<sub>3n+1</sub> Ruddlesden-Popper nickelate thin films**](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.6.055003)<br/>
