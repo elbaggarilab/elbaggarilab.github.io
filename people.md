@@ -35,7 +35,6 @@ Major: Mechanical Engineering<br/>
 
 
 <h2>Former Members</h2>
-<img src="../img/Hesham.png" alt="Hesham" width="300"/>
 
 **Dr. Hesham El Sherif**
 
@@ -45,11 +44,11 @@ heshamhassan [at] fas.harvard.edu<br/>
 <br/>
 <br/>
 
-<img src="../img/Patrick-1.jpg" alt="Patrick" width="300"/>
 
 **Patrick Singleton**
 
 Undergraduate Researcher<br/>
-Major: Physics and Mathematics<br/>
+A.B. Physics and Mathematics, Harvard College <br/>
+Current Position: University of Chicago
 
 [**Join our lab**]({{ site.baseurl }}/opportunities/)
