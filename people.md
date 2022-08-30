@@ -21,14 +21,7 @@ ielbaggari [at] rowland.harvard.edu<br/>
 
 **Emily (EmJ) Rennich**
 
-Undergraduate Reseracher<br/>
-Major: Mechanical Engineering<br/>
-<br/>
-<br/>
-
-**Sarah McDonald**
-
-Undergraduate Reseracher<br/>
+Undergraduate Researcher<br/>
 Major: Mechanical Engineering<br/>
 <br/>
 <br/>
@@ -36,11 +29,18 @@ Major: Mechanical Engineering<br/>
 
 <h2>Former Members</h2>
 
+**Sarah McDonald**
+
+Summer 2022 Undergraduate Intern<br/>
+Major: Mechanical Engineering<br/>
+<br/>
+<br/>
+
+
 **Dr. Hesham El Sherif**
 
 Post-Doctoral Fellow<br/>
 Ph.D., McMaster University<br/>
-heshamhassan [at] fas.harvard.edu<br/>
 <br/>
 <br/>
 
