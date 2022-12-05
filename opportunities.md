@@ -9,6 +9,10 @@ hide_hero: true
 
 ## Join our lab!
 
+
+### Post-Doctoral fellows
+All positions have been filled. 
+
 ### Undergraduate students
 
 Our group seeks to provide undergraduate students with engaging research projects in the field of experimental condensed matter physics. We have a position for an undergraduate student starting in Winter 2022. To discuss opportunities, contact ielbaggari@rowland.harvard.edu. 
