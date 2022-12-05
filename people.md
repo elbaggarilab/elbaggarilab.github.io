@@ -14,10 +14,22 @@ hide_hero: true
 Principal Investigator & Rowland Fellow<br/>
 100 Edwin H. Land Blvd<br/>
 Cambridge, MA 02142<br/>
-ielbaggari [at] rowland.harvard.edu<br/>
-<br/>
+ielbaggari [at] rowland.harvard.edu
 <br/>
 
+**Baron Ho**
+
+Post-Doctoral Fellow<br/>
+D.Phil. in Chemistry (Expected), University of Oxford , UK<br/>
+Start Date: Spring 2023 
+<br/>
+
+**Yang Zhang, PhD**
+
+Post-Doctoral Fellow<br/>
+Ph.D. Material Science and Engineering, Tsinghua University, Beijing, China<br/>
+Start Date: Spring 2023 
+<br/>
 
 **Emily (EmJ) Rennich**
 
@@ -27,6 +39,7 @@ Major: Mechanical Engineering<br/>
 <br/>
 
 
+
 <h2>Former Members</h2>
 
 **Sarah McDonald**
@@ -34,16 +47,12 @@ Major: Mechanical Engineering<br/>
 Summer 2022 Undergraduate Intern<br/>
 Major: Mechanical Engineering<br/>
 <br/>
-<br/>
-
 
 **Dr. Hesham El Sherif**
 
 Post-Doctoral Fellow<br/>
 Ph.D., McMaster University<br/>
 <br/>
-<br/>
-
 
 **Patrick Singleton**
 
