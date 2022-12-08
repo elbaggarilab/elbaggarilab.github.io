@@ -48,7 +48,7 @@ Summer 2022 Undergraduate Intern<br/>
 Major: Mechanical Engineering<br/>
 <br/>
 
-**Dr. Hesham El Sherif**
+**Hesham El Sherif, PhD**
 
 Post-Doctoral Fellow<br/>
 Ph.D., McMaster University<br/>
