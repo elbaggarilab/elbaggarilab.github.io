@@ -52,6 +52,7 @@ Major: Mechanical Engineering<br/>
 
 Post-Doctoral Fellow<br/>
 Ph.D., McMaster University<br/>
+Current Position: Cairo University<br/>
 <br/>
 
 **Patrick Singleton**
