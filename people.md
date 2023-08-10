@@ -17,46 +17,45 @@ Cambridge, MA 02142<br/>
 ielbaggari [at] rowland.harvard.edu
 <br/>
 
-**Baron Ho**
+<img src="../img/Yang.png" alt="Yang" width="300"/>
 
-Post-Doctoral Fellow<br/>
-D.Phil. in Chemistry (Expected), University of Oxford , UK<br/>
-Start Date: Spring 2023 
-<br/>
 
 **Yang Zhang, PhD**
 
 Post-Doctoral Fellow<br/>
-Ph.D. Material Science and Engineering, Tsinghua University, Beijing, China<br/>
-Start Date: Spring 2023 
+PhD in Material Science and Engineering, Tsinghua University, Beijing, China<br/>
+yzhang [at] rowland.harvard.edu
+
 <br/>
 
-**Emily (EmJ) Rennich**
 
-Undergraduate Researcher<br/>
-Major: Mechanical Engineering<br/>
+**Ping-Luen (Baron) Ho**
+
+Post-Doctoral Fellow<br/>
+D.Phil. in Chemistry (Expected), University of Oxford , UK<br/>
+Start Date: Fall 2023 
 <br/>
-<br/>
+
 
 
 
 <h2>Former Members</h2>
-
-**Sarah McDonald**
-
-Summer 2022 Undergraduate Intern<br/>
+**Emily (EmJ) Rennich**<br/>
+Undergraduate Researcher<br/>
 Major: Mechanical Engineering<br/>
 <br/>
 
-**Hesham El Sherif, PhD**
-
-Post-Doctoral Fellow<br/>
-Ph.D., McMaster University<br/>
-Current Position: Cairo University<br/>
+**Sarah McDonald**<br/>
+Undergraduate Intern<br/>
+Major: Mechanical Engineering<br/>
 <br/>
 
-**Patrick Singleton**
+**Dr. Hesham El Sherif**<br/>
+Post-Doctoral Fellow<br/>
+PhD, McMaster University<br/>
+<br/>
 
+**Patrick Singleton**<br/>
 Undergraduate Researcher<br/>
 A.B. Physics and Mathematics, Harvard College <br/>
 Current Position: University of Chicago
