@@ -29,20 +29,11 @@ yzhang [at] rowland.harvard.edu
 <br/>
 
 
-**Ping-Luen (Baron) Ho**
-
-Post-Doctoral Fellow<br/>
-D.Phil. in Chemistry (Expected), University of Oxford , UK<br/>
-Start Date: Fall 2023 
-<br/>
-
-
-
-
 <h2>Former Members</h2>
 **Emily (EmJ) Rennich**<br/>
 Undergraduate Researcher<br/>
 Major: Mechanical Engineering<br/>
+Current Position: Stanford University<br/>
 <br/>
 
 **Sarah McDonald**<br/>
