@@ -28,6 +28,13 @@ yzhang [at] rowland.harvard.edu
 
 <br/>
 
+**Suk Hyun Sung, PhD**
+
+Post-Doctoral Fellow, Start Nov 2023<br/>
+PhD in Material Science and Engineering, University of Michigan<br/>
+
+<br/>
+
 
 <h2>Former Members</h2>
 **Emily (EmJ) Rennich**<br/>
