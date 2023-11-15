@@ -28,6 +28,8 @@ yzhang [at] rowland.harvard.edu
 
 <br/>
 
+<img src="../img/ssh.png" alt="Yang" width="300"/>
+
 **Suk Hyun Sung, PhD**
 
 Post-Doctoral Fellow, Start Nov 2023<br/>
