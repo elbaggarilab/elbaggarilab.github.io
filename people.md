@@ -28,11 +28,11 @@ yzhang [at] rowland.harvard.edu
 
 <br/>
 
-<img src="../img/ssh.png" alt="Yang" width="300"/>
+<img src="../img/ssh.png" alt="Suk Hyun" width="300"/>
 
 **Suk Hyun Sung, PhD**
 
-Post-Doctoral Fellow, Start Nov 2023<br/>
+Post-Doctoral Fellow<br/>
 PhD in Material Science and Engineering, University of Michigan<br/>
 
 <br/>
