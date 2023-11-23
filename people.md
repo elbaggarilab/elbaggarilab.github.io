@@ -28,7 +28,7 @@ yzhang [at] rowland.harvard.edu
 
 <br/>
 
-<img src="../img/ssh.png" alt="Suk Hyun" width="300"/>
+<img src="../img/ssh" alt="Suk Hyun" width="300"/>
 
 **Suk Hyun Sung, PhD**
 
