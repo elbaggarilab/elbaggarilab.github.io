@@ -8,14 +8,11 @@ hide_hero: true
 
 ## Publications
 
+[**Limits to the strain engineering of layered square-planar nickelate thin films**](https://www.nature.com/articles/s41467-023-37117-4)<br/>
+Dan Ferenc Segedin*, Berit H. Goodge*, Grace A. Pan, Hesham El-Sherif, Qi Song, Erin E. Fleck, Nicole Taylor, Spencer Doyle, Jarad A. Mason, Hanjong Paik, Ismail El Baggari, Lena F. Kourkoutis, Charles M. Brooks, and Julia A. Mundy. *Nature Communications* 14, 1 (2023)
 
-**Domains boundaries in light-induced charge density wave twins in 1T-TaS<sub>2</sub>**<br/>
-<u>I. El Baggari</u>, A. Zong, A. Kogar, N. Gedik, L. F. Kourkoutis (In Preparation) 
-
-
-**Antiferromagnetic metal phase in an electron-doped rare-earth nickelate**<br/> 
-Qi Song , Spencer Doyle , Grace Pan , <u>Ismail El Baggari</u> , Dan Ferenc Segedin , Denisse Cordova Carrizales , James Ehrets , Zubia Hasan , <u>Hesham El-Sherif</u> , Jyoti Krishna , Chase Hanson , Harrison LaBollita , Aaron Bostwick , Chris Jozwiak , Eli Rotenberg , Alessandra Lanzara , Alpha N'Diaye , Colin Heikes , Yaohua Liu , Hanjong Paik , Charles Brooks , Betül Pamuk , John Heron , Padraic Shafer ,William Ratcliff , Antia Botana , Luca Moreschini, Julia A Mundy *Nature Physics* (*Accepted*)
-
+[**Antiferromagnetic metal phase in an electron-doped rare-earth nickelate**](https://www.nature.com/articles/s41567-022-01907-2)<br/> 
+Qi Song , Spencer Doyle , Grace Pan , <u>Ismail El Baggari</u> , Dan Ferenc Segedin , Denisse Cordova Carrizales , James Ehrets , Zubia Hasan , <u>Hesham El-Sherif</u> , Jyoti Krishna , Chase Hanson , Harrison LaBollita , Aaron Bostwick , Chris Jozwiak , Eli Rotenberg , Alessandra Lanzara , Alpha N'Diaye , Colin Heikes , Yaohua Liu , Hanjong Paik , Charles Brooks , Betül Pamuk , John Heron , Padraic Shafer ,William Ratcliff , Antia Botana , Luca Moreschini, Julia A Mundy *Nature Physics* 19, 522–528 (2023)
 
 [**Synthesis and electronic properties of Nd<sub>n+1</sub>Ni<sub>n</sub>O<sub>3n+1</sub> Ruddlesden-Popper nickelate thin films**](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.6.055003)<br/>
 G. A. Pan, Q. Song, D. F. Segedin, M.  Jung, <u>H. El-Sherif</u>, E. E. Fleck, B. H. Goodge, S. Doyle, D. C. Carrizales, A. T. N'Diaye, P. Shafer, H. Paik, L. F. Kourkoutis, <u>I. El Baggari</u>, A. S. Botana, C. M. Brooks, and J. A. Mundy. *Physical Review Materials* 6, 055003 (2022)
