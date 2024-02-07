@@ -15,7 +15,7 @@ Post-doctoral candidates with a strong background in quantum materials, electron
 
 ### Undergraduate students
 
-Our group seeks to provide undergraduate students with engaging research projects in the field of experimental condensed matter physics. We have a position for an undergraduate student starting in Winter 2023. To discuss opportunities, contact ielbaggari@rowland.harvard.edu. 
+Our group seeks to provide undergraduate students with engaging research projects in the field of experimental condensed matter physics, mechanical design, and electronics. We have positions for undergraduate students starting in Winter 2024. To discuss opportunities, contact ielbaggari@rowland.harvard.edu. 
 
 
 ####  Harvard is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, gender identity, sexual orientation, pregnancy and pregnancy-related conditions, or any other characteristic protected by law.
