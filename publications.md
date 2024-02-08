@@ -7,6 +7,17 @@ hide_hero: true
 ---
 
 ## Publications
+[**Ultra-Cold Cryogenic TEM with Liquid Helium and High Stability**](https://arxiv.org/abs/2402.00636)<br/>
+Emily Rennich\*, Suk Hyun Sung\*, Nishkarsh Agarwal, Maya Gates, Robert Kerns, Robert Hovden, Ismail El Baggar. arXiv:2402.00636 (Submitted)
+
+
+**Defect Engineering in Epitaxial Thin Films of the Pyrochlore Frustrated Magnet Tb2Ti2O7**<br/>
+Anderson, Margaret; El Baggari, Ismail; Brooks, Charles; Powell, Troy; Lygouras, Chris; N'Diaye, Alpha; Koohpayeh, Seyed; Nordlander, Johanna; Mundy, Julia. *Chemistry of Materials* (Accepted)
+
+
+[**Endotaxial Stabilization of 2D Charge Density Waves with Long-range Order**](https://arxiv.org/abs/2307.04587)                   
+Suk Hyun Sung, Nishkarsh Agarwal, Ismail El Baggari, Yin Min Goh, Pat Kezer, Noah Schnitzer, Lena F. Kourkoutis, John T Heron, Kai Sun, and Robert Hovden. *Nature Communications* (Accepted)
+
 
 [**Limits to the strain engineering of layered square-planar nickelate thin films**](https://www.nature.com/articles/s41467-023-37117-4)<br/>
 Dan Ferenc Segedin*, Berit H. Goodge*, Grace A. Pan, Hesham El-Sherif, Qi Song, Erin E. Fleck, Nicole Taylor, Spencer Doyle, Jarad A. Mason, Hanjong Paik, Ismail El Baggari, Lena F. Kourkoutis, Charles M. Brooks, and Julia A. Mundy. *Nature Communications* 14, 1 (2023)
