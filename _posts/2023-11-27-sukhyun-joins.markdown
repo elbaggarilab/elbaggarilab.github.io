@@ -7,4 +7,4 @@ published: true
 hide_hero: true
 ---
 
-Suk Hyun Sung joins the lab at the Rowland Institute at Harvard. He brings in immense experience in 2D materials, electron microscopy, and in situ experiments. Welcome Suk Hyun!
+Suk Hyun Sung joins the lab at the Rowland Institute at Harvard. He brings immense experience in 2D materials, electron microscopy, and in situ experiments. Welcome Suk Hyun!

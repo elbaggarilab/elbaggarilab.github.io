@@ -7,16 +7,17 @@ hide_hero: true
 ---
 
 ## Publications
+[**Tracking topological defect motion and incommensurate charge order melting in a perovskite manganite**](https://arxiv.org/abs/2402.08580)<br/>
+Noah Schnitzer, Berit H. Goodge, Gregory Powers, Jaewook Kim, Sang-Wook Cheong, Ismail El Baggari, and Lena F. Kourkoutis
+
 [**Ultra-Cold Cryogenic TEM with Liquid Helium and High Stability**](https://arxiv.org/abs/2402.00636)<br/>
 Emily Rennich\*, Suk Hyun Sung\*, Nishkarsh Agarwal, Maya Gates, Robert Kerns, Robert Hovden, Ismail El Baggar. arXiv:2402.00636 (Submitted)
-
 
 **Defect Engineering in Epitaxial Thin Films of the Pyrochlore Frustrated Magnet Tb2Ti2O7**<br/>
 Anderson, Margaret; El Baggari, Ismail; Brooks, Charles; Powell, Troy; Lygouras, Chris; N'Diaye, Alpha; Koohpayeh, Seyed; Nordlander, Johanna; Mundy, Julia. *Chemistry of Materials* (Accepted)
 
-
-[**Endotaxial Stabilization of 2D Charge Density Waves with Long-range Order**](https://arxiv.org/abs/2307.04587)                   
-Suk Hyun Sung, Nishkarsh Agarwal, Ismail El Baggari, Yin Min Goh, Pat Kezer, Noah Schnitzer, Lena F. Kourkoutis, John T Heron, Kai Sun, and Robert Hovden. *Nature Communications* (Accepted)
+[**Endotaxial Stabilization of 2D Charge Density Waves with Long-range Order**](https://www.nature.com/articles/s41467-024-45711-3)                   
+Suk Hyun Sung, Nishkarsh Agarwal, Ismail El Baggari, Yin Min Goh, Pat Kezer, Noah Schnitzer, Lena F. Kourkoutis, John T Heron, Kai Sun, and Robert Hovden. *Nature Communications* 15, 1403 (2024)
 
 
 [**Limits to the strain engineering of layered square-planar nickelate thin films**](https://www.nature.com/articles/s41467-023-37117-4)<br/>
