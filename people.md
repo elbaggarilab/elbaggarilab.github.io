@@ -37,6 +37,14 @@ PhD in Material Science and Engineering, University of Michigan<br/>
 
 <br/>
 
+**Carly Grossman**
+
+Undergraduate Reseacher<br/>
+Tufts University<br/>
+Major: Chemistry
+
+<br/>
+
 
 <h2>Former Members</h2>
 **Emily (EmJ) Rennich**<br/>
