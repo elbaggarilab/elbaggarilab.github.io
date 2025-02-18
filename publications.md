@@ -7,21 +7,23 @@ hide_hero: true
 ---
 
 ## Publications
-[**Tracking topological defect motion and incommensurate charge order melting in a perovskite manganite**](https://arxiv.org/abs/2402.08580)<br/>
-Noah Schnitzer, Berit H. Goodge, Gregory Powers, Jaewook Kim, Sang-Wook Cheong, Ismail El Baggari, and Lena F. Kourkoutis
+[**Inverse Melting of Polar Order in Chemically Substituted BaTiO3**](https://arxiv.org/abs/2411.10445)<br/>
+<u>Yang Zhang</u>, <u>Suk Hyun Sung</u>, Colin B. Clement, Sang-Wook Cheong, <u>Ismail El Baggari</u> (*In Review*)
+
+[**Atomic-Scale Tracking of Topological Defect Motion and Incommensurate Charge Order Melting**](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.011007)<br/>
+Noah Schnitzer, Berit H. Goodge, Gregory Powers, Jaewook Kim, Sang-Wook Cheong, <u>Ismail El Baggari</u>, and Lena F. Kourkoutis. *Physical Review X* 15, 011007 (2025)
 
 [**Ultra-Cold Cryogenic TEM with Liquid Helium and High Stability**](https://arxiv.org/abs/2402.00636)<br/>
-Emily Rennich\*, Suk Hyun Sung\*, Nishkarsh Agarwal, Maya Gates, Robert Kerns, Robert Hovden, Ismail El Baggar. arXiv:2402.00636 (Submitted)
+Emily Rennich\*, Suk Hyun Sung\*, Nishkarsh Agarwal, Maya Gates, Robert Kerns, Robert Hovden, <u>Ismail El Baggari</u>. arXiv:2402.00636 (Submitted)
 
-**Defect Engineering in Epitaxial Thin Films of the Pyrochlore Frustrated Magnet Tb2Ti2O7**<br/>
-Anderson, Margaret; El Baggari, Ismail; Brooks, Charles; Powell, Troy; Lygouras, Chris; N'Diaye, Alpha; Koohpayeh, Seyed; Nordlander, Johanna; Mundy, Julia. *Chemistry of Materials* (Accepted)
+[**Defect Engineering in Epitaxial Thin Films of the Pyrochlore Frustrated Magnet Tb2Ti2O7**](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.3c02603?casa_token=wAIjgmdlHkgAAAAA%3A6SzqwpjbTX9kVo8Alzl4dLga-0n0pAp4_utUnzTIO2FAGa3oAiKVBXGp6AFiKgMO-c_IXjpFKAmF4w)<br/>
+Anderson, Margaret; El Baggari, Ismail; Brooks, Charles; Powell, Troy; Lygouras, Chris; N'Diaye, Alpha; Koohpayeh, Seyed; Nordlander, Johanna; Mundy, Julia. *Chemistry of Materials* 36, 2325 (2024)
 
 [**Endotaxial Stabilization of 2D Charge Density Waves with Long-range Order**](https://www.nature.com/articles/s41467-024-45711-3)                   
 Suk Hyun Sung, Nishkarsh Agarwal, Ismail El Baggari, Yin Min Goh, Pat Kezer, Noah Schnitzer, Lena F. Kourkoutis, John T Heron, Kai Sun, and Robert Hovden. *Nature Communications* 15, 1403 (2024)
 
-
 [**Limits to the strain engineering of layered square-planar nickelate thin films**](https://www.nature.com/articles/s41467-023-37117-4)<br/>
-Dan Ferenc Segedin*, Berit H. Goodge*, Grace A. Pan, Hesham El-Sherif, Qi Song, Erin E. Fleck, Nicole Taylor, Spencer Doyle, Jarad A. Mason, Hanjong Paik, Ismail El Baggari, Lena F. Kourkoutis, Charles M. Brooks, and Julia A. Mundy. *Nature Communications* 14, 1 (2023)
+Dan Ferenc Segedin\*, Berit H. Goodge\*, Grace A. Pan, Hesham El-Sherif, Qi Song, Erin E. Fleck, Nicole Taylor, Spencer Doyle, Jarad A. Mason, Hanjong Paik, Ismail El Baggari, Lena F. Kourkoutis, Charles M. Brooks, and Julia A. Mundy. *Nature Communications* 14, 1 (2023)
 
 [**Antiferromagnetic metal phase in an electron-doped rare-earth nickelate**](https://www.nature.com/articles/s41567-022-01907-2)<br/> 
 Qi Song , Spencer Doyle , Grace Pan , <u>Ismail El Baggari</u> , Dan Ferenc Segedin , Denisse Cordova Carrizales , James Ehrets , Zubia Hasan , <u>Hesham El-Sherif</u> , Jyoti Krishna , Chase Hanson , Harrison LaBollita , Aaron Bostwick , Chris Jozwiak , Eli Rotenberg , Alessandra Lanzara , Alpha N'Diaye , Colin Heikes , Yaohua Liu , Hanjong Paik , Charles Brooks , Betül Pamuk , John Heron , Padraic Shafer ,William Ratcliff , Antia Botana , Luca Moreschini, Julia A Mundy *Nature Physics* 19, 522–528 (2023)
