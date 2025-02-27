@@ -42,7 +42,7 @@ Recently, we have developed a novel instrument that enables cooling using [liqui
 ## Topics
 
 The materials we study range from bulk complex oxides to atomically engineered heterointerfaces to quasi-2D
-and quasi-1D compounds. These systems constitute rich playground for studying phenomena such as **charge and orbital order**,
+and quasi-1D compounds. These systems provide a rich playground for studying phenomena such as **charge and orbital order**,
 **superconductivity**, **phase separation**, **ferroelectricity** and **quantum criticality**.
 
 We are interested in understanding phase transitions by directly visualizing order and disorder.

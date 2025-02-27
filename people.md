@@ -26,7 +26,7 @@ ismail.elbaggari [at] gmail.com
 Post-Doctoral Fellow<br/>
 PhD in Material Science and Engineering <br/>
 Tsinghua University, Beijing, China<br/>
-yzhang [at] fas.harvard.edu
+yzhang6 [at] fas.harvard.edu
 
 <br/>
 
