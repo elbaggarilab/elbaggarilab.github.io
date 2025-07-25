@@ -7,8 +7,8 @@ hide_hero: true
 ---
 
 ## Publications
-[**Inverse Melting of Polar Order in Chemically Substituted BaTiO3**](https://arxiv.org/abs/2411.10445)<br/>
-<u>Yang Zhang</u>, <u>Suk Hyun Sung</u>, Colin B. Clement, Sang-Wook Cheong, <u>Ismail El Baggari</u> (*In Review*)
+[**Inverse Melting of Polar Order in Chemically Substituted BaTiO3**](https://journals.aps.org/prl/abstract/10.1103/62lm-hhw5)<br/>
+<u>Yang Zhang</u>, <u>Suk Hyun Sung</u>, Colin B. Clement, Sang-Wook Cheong, <u>Ismail El Baggari</u>. *Physical Review Letters* 134, 256801 (2025)
 
 [**Atomic-Scale Tracking of Topological Defect Motion and Incommensurate Charge Order Melting**](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.011007)<br/>
 Noah Schnitzer, Berit H. Goodge, Gregory Powers, Jaewook Kim, Sang-Wook Cheong, <u>Ismail El Baggari</u>, and Lena F. Kourkoutis. *Physical Review X* 15, 011007 (2025)
