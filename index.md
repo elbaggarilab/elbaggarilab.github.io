@@ -10,7 +10,7 @@ hide_footer: false
 
 
 
-Our lab develops <em> in situ</em> cryogenic electron microscopy and in situ capabilities to visualize, understand and manipulate quantum materials at the atomic scale.
+Our lab develops cryogenic electron microscopy and in situ capabilities to visualize, understand and manipulate quantum materials at the atomic scale.
 We are located at the [Stewart Blusson Quantum Matter Institute](https://qmi.ubc.ca/) and [Department of Physics & Astronomy](https://www.phas.ubc.ca/) at the University of British Columbia in Vancouver, BC, Canada. 
 
 
