@@ -1,5 +1,7 @@
 - name: Research
   link: /research/
+- name: Lab
+  link: /ubc/
 - name: People
   link: /people/
 - name: Publications
@@ -8,5 +10,3 @@
   link: /opportunities/
 - name: Posts
   link: /blog/
-- name: University of British Columbia
-  link: /ubc/
