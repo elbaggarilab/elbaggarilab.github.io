@@ -11,34 +11,26 @@ hide_hero: true
 
 **Ismail El Baggari, PhD**
 
-Principal Investigator<br/>
-60 Oxford St<br/>
-Cambridge, MA 02138<br/>
-ielbaggari [at] fas.harvard.edu<br/>
-ismail.elbaggari [at] gmail.com
+Assistant Professor<br/>
+Department of Physics and Astronomy<br/>
+University of British Columbia<br/>
+Vancouver, BC, Canada<br/>
+ismail.elbaggari [at] ubc [dot] ca <br/>
 <br/>
 
-<img src="../img/people/Yang.png" alt="Yang" width="300"/>
 
+<h2>Previous Members</h2>
 
 **Yang Zhang, PhD**
 
 Post-Doctoral Fellow<br/>
-PhD in Material Science and Engineering <br/>
-Tsinghua University, Beijing, China<br/>
-yzhang6 [at] fas.harvard.edu
+Current Position: Duke University<br/>
 
-<br/>
-
-<img src="../img/people/ssh.jpg" alt="Suk Hyun" width="300"/>
 
 **Suk Hyun Sung, PhD**
 
 Post-Doctoral Fellow<br/>
-PhD in Material Science and Engineering, 
-University of Michigan, MI<br/>
-ssung [at] g.harvard.edu
-
+Current Position: Staff Scientist, University of Michigan<br/>
 <br/>
 
 **Carly Grossman**
@@ -46,8 +38,7 @@ ssung [at] g.harvard.edu
 Undergraduate Reseacher<br/>
 Tufts University<br/>
 Major: Chemistry & Math
-
-
+Current Position: Researcher, University of Michigan<br/>
 <br/>
 
 **Travis Burke**
@@ -55,8 +46,6 @@ Major: Chemistry & Math
 Undergraduate Reseacher<br/>
 Worcester Polytechnic Institute<br/>
 Major: Mechanical Engineering
- 
-
 <br/>
 
 
@@ -65,38 +54,24 @@ Major: Mechanical Engineering
 Undergraduate Reseacher<br/>
 Harvard University<br/>
 Major: Mechanical Engineering
-
-
-<br/>
-
-**JaKayla Harris**
-
-Undergraduate Reseacher<br/>
-Harvard University<br/>
-Major: Physics
-
-
 <br/>
 
 
-<h2>Former Members</h2>
+
 **Emily (EmJ) Rennich**<br/>
 Undergraduate Researcher<br/>
 Major: Mechanical Engineering<br/>
 Current Position: Stanford University<br/>
-
 <br/>
 
 **Sarah McDonald**<br/>
 Undergraduate Intern<br/>
 Major: Mechanical Engineering<br/>
-
 <br/>
 
 **Dr. Hesham El Sherif**<br/>
 Post-Doctoral Fellow<br/>
 PhD, McMaster University<br/>
-
 <br/>
 
 **Patrick Singleton**<br/>
