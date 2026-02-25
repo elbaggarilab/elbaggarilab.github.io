@@ -1,5 +1,5 @@
 ---
-title: University of British Columbia
+title: Lab
 description: University of British Columbia
 layout: page
 show_sidebar: True
