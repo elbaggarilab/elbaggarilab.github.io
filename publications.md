@@ -13,8 +13,8 @@ hide_hero: true
 [**Atomic-Scale Tracking of Topological Defect Motion and Incommensurate Charge Order Melting**](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.011007)<br/>
 Noah Schnitzer, Berit H. Goodge, Gregory Powers, Jaewook Kim, Sang-Wook Cheong, <u>Ismail El Baggari</u>, and Lena F. Kourkoutis. *Physical Review X* 15, 011007 (2025)
 
-[**Ultra-Cold Cryogenic TEM with Liquid Helium and High Stability**](https://arxiv.org/abs/2402.00636)<br/>
-Emily Rennich\*, Suk Hyun Sung\*, Nishkarsh Agarwal, Maya Gates, Robert Kerns, Robert Hovden, <u>Ismail El Baggari</u>. arXiv:2402.00636 (Submitted)
+[**Ultra-Cold Cryogenic TEM with Liquid Helium and High Stability**](https://www.pnas.org/doi/pdf/10.1073/pnas.2509736122)<br/>
+Emily Rennich\*, Suk Hyun Sung\*, Nishkarsh Agarwal, Maya Gates, Robert Kerns, Robert Hovden, <u>Ismail El Baggari</u>. *Proceedings of the National Academy of Sciences* 122,36 (2025)
 
 [**Defect Engineering in Epitaxial Thin Films of the Pyrochlore Frustrated Magnet Tb2Ti2O7**](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.3c02603?casa_token=wAIjgmdlHkgAAAAA%3A6SzqwpjbTX9kVo8Alzl4dLga-0n0pAp4_utUnzTIO2FAGa3oAiKVBXGp6AFiKgMO-c_IXjpFKAmF4w)<br/>
 Anderson, Margaret; El Baggari, Ismail; Brooks, Charles; Powell, Troy; Lygouras, Chris; N'Diaye, Alpha; Koohpayeh, Seyed; Nordlander, Johanna; Mundy, Julia. *Chemistry of Materials* 36, 2325 (2024)
