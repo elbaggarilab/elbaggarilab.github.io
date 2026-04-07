@@ -8,6 +8,14 @@ hide_hero: true
 
 The lab is located at the [Stewart Blusson Quantum Matter Institute](https://qmi.ubc.ca/) and [Department of Physics & Astronomy](https://www.phas.ubc.ca/) at the University of British Columbia in Vancouver, BC, Canada.
 
+#### Research Associate
+A Research Associate/Staff Scientist position in High Resolution Microscopy and Spectroscopy is available at the University of British Columbia’s interdisciplinary Quantum Matter Institute in Vancouver, Canada!
+
+Cool opportunity to push the limits of spatial, energy, and momentum resolution in a monochromated Nion HERMES STEM; study quantum materials and devices; develop unique in situ capabilities at low temperatures; and collaborate with strong interdisciplinary teams of experimentalists and theorists.
+
+Apply [here](https://lnkd.in/eZyiFpEm)
+
+
 #### Post-doctoral scientists
 
 Post-doctoral candidates with a strong background in experimental condensed matter physics, electron microscopy, spectroscopy, electron optics, and/or cryogenics are encouraged to apply by emailing **ismail.elbaggari [at] ubc [dot] ca**. 
