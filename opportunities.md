@@ -13,7 +13,7 @@ A Research Associate/Staff Scientist position in High Resolution Microscopy and 
 
 Cool opportunity to push the limits of spatial, energy, and momentum resolution in a monochromated Nion HERMES STEM; study quantum materials and devices; develop unique in situ capabilities at low temperatures; and collaborate with strong interdisciplinary teams of experimentalists and theorists.
 
-Apply [here](https://lnkd.in/eZyiFpEm)
+Apply [here]([https://lnkd.in/eZyiFpEm](https://ubc.wd10.myworkdayjobs.com/ubcfacultyjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Research-Associate---High-Resolution-Electron-Microscopy-and-Spectroscopy_JR24059-2))
 
 
 #### Post-doctoral scientists
