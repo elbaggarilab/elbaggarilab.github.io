@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,300&family=Quicksand:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,300&family=DM Sans:wght@400;500;600;700&display=swap');
 
 :root {
   --mint:    #5DFDCB;
@@ -43,7 +43,7 @@ nav {
 }
 
 .nav-brand {
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'DM Sans', sans-serif;
   font-weight: 800;
   font-size: 1.15rem;
   color: var(--mint);
@@ -137,7 +137,7 @@ nav {
 }
 
 .hero h1 {
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'DM Sans', sans-serif;
   font-size: clamp(2.4rem, 5vw, 3.8rem);
   font-weight: 800;
   line-height: 1.1;
@@ -211,7 +211,7 @@ nav {
 }
 
 h2.section-title {
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'DM Sans', sans-serif;
   font-size: 2rem;
   font-weight: 700;
   color: var(--ink);
@@ -220,7 +220,7 @@ h2.section-title {
 }
 
 h3 {
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'DM Sans', sans-serif;
   font-size: 1.25rem;
   font-weight: 700;
   margin-bottom: 0.75rem;
@@ -311,7 +311,7 @@ h3 {
 
 .post-hero-inner { max-width: 720px; margin: 0 auto; }
 .post-hero h1 {
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'DM Sans', sans-serif;
   font-size: clamp(1.8rem, 4vw, 2.8rem);
   font-weight: 800;
   color: white;
@@ -382,7 +382,7 @@ h3 {
 .pub-item:hover::before { opacity: 1; }
 
 .pub-item a {
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'DM Sans', sans-serif;
   font-weight: 600;
   font-size: 1rem;
   color: var(--mid);
@@ -467,14 +467,14 @@ h3 {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'DM Sans', sans-serif;
   font-size: 2rem;
   color: white;
   font-weight: 800;
 }
 
 .person-name {
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'DM Sans', sans-serif;
   font-weight: 700;
   font-size: 1rem;
   margin-bottom: 0.3rem;
@@ -569,7 +569,7 @@ footer {
 }
 
 .footer-brand {
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'DM Sans', sans-serif;
   font-size: 1.1rem;
   font-weight: 800;
   color: white;
@@ -613,7 +613,7 @@ footer {
 .prose { max-width: 72ch; }
 .prose p { margin-bottom: 1.2rem; color: #333; }
 .prose h2 {
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'DM Sans', sans-serif;
   font-size: 1.5rem;
   font-weight: 700;
   margin: 2.5rem 0 1rem;
@@ -706,7 +706,7 @@ footer {
 }
 
 .new-post-section summary {
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'DM Sans', sans-serif;
   font-weight: 700;
   font-size: 1rem;
   cursor: pointer;
@@ -826,7 +826,7 @@ details[open] summary::before { content: '×'; }
 }
 
 #post-preview h4 {
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'DM Sans', sans-serif;
   font-size: 1rem;
   margin-bottom: 0.4rem;
 }
